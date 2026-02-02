@@ -51,9 +51,9 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'Christ University,Bangalore',
+      degree: 'BSc Economics with Data Science',
+      year: '2025-2029',
       image: getAsset('images/education/placeholder.png'),
       description: ['Brief description of your focus or thesis'],
     },
@@ -88,10 +88,10 @@ const siteConfig = {
   // ✅ Experience section updated
   experience: [
     {
-      title: 'Your Role',
+      title: 'Event head',
       cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Your Organization',
-      time: '(MMM YYYY – Present)',
+      place: 'CAPS',
+      time: '(July 2025 – Present)',
       desp: ['Brief responsibility 1', 'Brief responsibility 2'],
     },
     {
@@ -107,15 +107,15 @@ const siteConfig = {
   // ✅ Projects section updated
   projects: [
     {
-      title: 'Project Title 1',
+      title: 'Cravico — Market Strategy & Consumer Insights (Healthier Snacking Brand)',
       cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Short description of your project and what it does...',
+      description: 'Built consumer and market strategy for a healthier snacking startup by analyzing consumer preferences, competitive positioning, and go-to-market decisions.',
       Githublink: 'https://github.com/your-username/your-project',
     },
     {
-      title: 'Project Title 2',
+      title: 'Business Strategy Case Competitions',
       cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Another project summary...',
+      description: 'AnSolved real-world business cases by structuring ambiguous problems, developing data-backed strategies, and presenting clear recommendations under time pressure.',
       Githublink: 'https://github.com/your-username/another-project',
     },
   ],
