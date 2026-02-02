@@ -7,10 +7,10 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Sakhi Agarwal',
-    title: 'Student| BSc Economics with Data Science',
+    title: 'Student at Christ University Banglore | BSC Economics with Data Science',
     image: getAsset('images/Profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'Economics student focused on startups, consulting, and turning ideas into action. Curious by nature, driven by execution.\n' +
       '\n' +
       'Mention your institution or company, areas of interest, and what you teach or build.\n' +
       '\n' +
