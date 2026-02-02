@@ -12,7 +12,7 @@ const siteConfig = {
     description:
       'Economics student focused on startups, consulting, and turning ideas into action. Curious by nature, driven by execution.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Trained in economics finance, and data analysis, with certifications in strategy consulting, investment banking, and business strategy.My work spans market research, consumer analysis, and early-stage executionshaped through startup building, investment simulations, and national-level business competitions.I am particularly interested in consumer behavior, market dynamics, and translating analytical insights into practical, real-world decisions.\n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
@@ -148,8 +148,8 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
-    linkedin: 'https://www.linkedin.com/in/your-linkedin/',
+    email: 'agarwalsakhi43@gmail.com',
+    linkedin: 'linkedin.com/in/sakhi-agarwal-202068216',
     github: 'https://github.com/your-username',
     googleScholar: 'https://scholar.google.com/citations?user=YOURID',
     orcid: 'https://orcid.org/0000-0000-0000-0000',
