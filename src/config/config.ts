@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Sakhi Agarwal',
-    title: 'Student at Christ University Banglore | BSC Economics with Data Science',
+    title: 'Co-Founder, Cravico | First-Year BSc Economics with Data Science, Christ University',
     image: getAsset('images/Profile.png'), // Customize or replace with your profile image
     description:
       'Economics student focused on startups, consulting, and turning ideas into action. Curious by nature, driven by execution.\n' +
